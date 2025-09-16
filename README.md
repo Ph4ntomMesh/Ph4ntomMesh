@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Hello%2C%20I'm%20Prathamesh-%2300FF00?style=for-the-badge&logoColor=white&labelColor=111111" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hello,+I'm+Prathamesh;Cybersecurity+Enthusiast+|+CEH;Ethical+Hacker+|+IT+Graduate" alt="Typing SVG" />
 </p>
-
 
 # 🔓 About Me
 
