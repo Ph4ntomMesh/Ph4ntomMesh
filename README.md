@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://glowing-text.itsvg.in/api?text=Hello,%20I%27m%20Prathamesh&textColor=white&glowColor=00FF00&animation=flicker" alt="Glowing Text Banner" width="500" />
+  <img src="https://img.shields.io/badge/Hello%2C%20I'm%20Prathamesh-%2300FF00?style=for-the-badge&logoColor=white&labelColor=111111" />
 </p>
+
 
 # 🔓 About Me
 
