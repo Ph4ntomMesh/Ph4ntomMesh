@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/B7oXF0S.gif" alt="Hacker GIF Banner" width="800"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Prathamesh+Dhawale;Ethical+Hacker+%7C+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
 # 🔓 About Me
