@@ -1,10 +1,4 @@
-I understand your frustration, and I apologize that the previous suggestions haven't worked as intended. The issue is that some online image services can be unreliable.
 
-To make sure this doesn't happen again, I have a new solution that uses a more stable service to generate a glowing, animated banner. This one should be highly reliable.
-
-Here is the complete code for your GitHub README with a new, professional, and reliably animated banner. Just copy and paste this entire block of code into your `README.md` file.
-
-```markdown
 <p align="center">
   <img src="https://glowing-text.itsvg.in/api?text=Hello,%20I'm%20Prathamesh&textColor=white&glowColor=00FF00&animation=flicker" alt="Glowing Text Banner" width="500" />
 </p>
