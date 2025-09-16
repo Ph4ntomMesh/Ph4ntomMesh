@@ -1,10 +1,5 @@
-
 <p align="center">
-  <br>
-  <br>
-  <img src="https://user-images.githubusercontent.com/73031268/193074092-e42750e3-057d-411a-8b1a-82f5b4104258.gif" alt="Hacker Matrix Banner" width="800" />
-  <br>
-  <br>
+  <img src="https://glowing-text.itsvg.in/api?text=Hello,%20I%27m%20Prathamesh&textColor=white&glowColor=00FF00&animation=flicker" alt="Glowing Text Banner" width="500" />
 </p>
 
 # 🔓 About Me
@@ -16,59 +11,21 @@
 ---
 
 ### 🕵️‍♂️ Who I Am
-
-* 🎓 **Information Technology** Graduate specializing in **Cybersecurity**.
-* 🛡️ **Certified Ethical Hacker (CEH)** from EC-Council.
-* 🌐 Certified in **Cisco** and **Qualys** technologies.
-* 🔭 Currently exploring **Malware Analysis**, **Threat Hunting**, and **Networking**.
-* ⚡ **Motto**: *"Stay curious, stay secure."*
+- 🎓 **Information Technology Graduate** specializing in **Cybersecurity**  
+- 🛡️ **Certified Ethical Hacker (CEH)** from EC-Council  
+- 🌐 Certified in **Cisco** and **Qualys** technologies  
+- 🔭 Currently exploring **Malware Analysis**, **Threat Hunting**, and **Networking**  
+- ⚡ **Motto**: *"Stay curious, stay secure."*  
 
 ---
 
 ### 💻 My Cybersecurity Toolkit
 
 <p align="center">
-<a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali%20Linux-5C4281?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
-<a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/-Metasploit-7F1F40?style=for-the-badge&logo=metasploit&logoColor=white" /></a>
-<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A8?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
-<a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-E12F3D?style=for-the-badge&logo=nmap&logoColor=white" /></a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Penetration%20Testing-brightgreen?style=for-the-badge&logoColor=white&logo=hackthebox" alt="Penetration Testing Badge" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Management-purple?style=for-the-badge&logoColor=white&logo=vultr" alt="Vulnerability Management Badge" />
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-blue?style=for-the-badge&logoColor=white&logo=kali-linux" alt="Ethical Hacking Badge" />
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=00FF00" /></a>
+  <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=9B59B6" /></a>
+  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF00" /></a>
+  <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=nmap&logoColor=9B59B6" /></a>
 </p>
 
----
-
-### 📜 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CEH%20(EC--Council)-brightgreen?style=for-the-badge&logo=eccouncil&logoColor=white" alt="CEH Certification Badge" />
-  <img src="https://img.io/badge/Cisco-purple?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification Badge" />
-  <img src="https://img.shields.io/badge/Qualys-brightgreen?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys Certification Badge" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ph4ntomMesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4ntomMesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ph4ntomMesh&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌐 Socials
-
-<p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-dhawale-b865a2378/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dprathmesh1910@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ph4ntomMesh&icon=0&color=0" alt="Visit Count" />
-</p>
-```
+<p
