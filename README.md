@@ -1,6 +1,10 @@
 
 <p align="center">
-  <img src="https://glowing-text.itsvg.in/api?text=Hello,%20I'm%20Prathamesh&textColor=white&glowColor=00FF00&animation=flicker" alt="Glowing Text Banner" width="500" />
+  <br>
+  <br>
+  <img src="https://user-images.githubusercontent.com/73031268/193074092-e42750e3-057d-411a-8b1a-82f5b4104258.gif" alt="Hacker Matrix Banner" width="800" />
+  <br>
+  <br>
 </p>
 
 # 🔓 About Me
